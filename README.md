@@ -14,7 +14,7 @@
 
 | Selection Screen | Gameplay | Result Screen |
 |------------------|----------|----------------|
-| ![Start](images/Rock-Paper-Scissor1.png) | ![Play](images/Rock-Paper-Scissor2.png) | ![Result](images/Rock-Paper-Scissor3.png) |
+| ![Start](Images/Rock-Paper-Scissor1.png) | ![Play](Images/Rock-Paper-Scissor2.png) | ![Result](Images/Rock-Paper-Scissor3.png) |
 
 ---
 
