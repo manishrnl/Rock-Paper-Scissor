@@ -61,3 +61,52 @@
 git clone https://github.com/manishrnl/Rock-Paper-Scissor.git
 cd Rock-Paper-Scissor
 ```
+
+
+---
+
+
+## ▶️ Getting Started
+- Open the project in IntelliJ IDEA or another JavaFX-compatible IDE
+
+- Make sure JavaFX SDK is set up in your environment
+
+- Run the Main.java class
+
+- Start playing!
+
+## ✅ Requirements
+- Java 21 or higher
+
+- JavaFX SDK (24)
+
+- IDE like IntelliJ IDEA / Eclipse with JavaFX support
+
+## 📌 Future Improvements
+- 🎵 Add sound effects for actions
+
+- 🎨 Add theme customization options
+
+- 🧠 Add score tracking system
+
+- 🌐 Implement multiplayer mode over LAN
+
+## 👤 Developed By
+**Manish Kumar**
+- 📧 manishrajrnl1@gmail.com
+- 🔗 GitHub Profile
+
+🗂 Project Structure
+```bash
+📁 Rock-Paper-Scissor/
+├── 📁 src/
+│   └── Main.java
+├── 📁 images/
+│   ├── Rock-Paper-Scissor1.png
+│   ├── Rock-Paper-Scissor2.png
+│   └── Rock-Paper-Scissor3.png
+└── README.md
+
+```
+
+
