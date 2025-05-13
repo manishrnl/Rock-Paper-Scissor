@@ -8,15 +8,32 @@
 > A simple yet engaging **Rock Paper Scissors** game developed using **JavaFX**.  
 > Test your luck against the computer in this timeless game with a sleek and responsive interface!
 
+
+
+
+
+
+
 ---
+
+
+
+
+
 
 ## 🖼️ Preview
 
-| Selection Screen | Gameplay | Result Screen |
+| Screen 1 | Screen 2 | Screen 3 |
 |------------------|----------|----------------|
 | ![Start](Images/Rock-Paper-Scissor1.png) | ![Play](Images/Rock-Paper-Scissor2.png) | ![Result](Images/Rock-Paper-Scissor3.png) |
 
+
+
+
 ---
+
+
+
 
 ## 🎯 Features
 
@@ -41,7 +58,13 @@
 🔁 **Play Again Option**  
 - Restart the game with a single click
 
+
+
+
 ---
+
+
+
 
 ## 🛠️ Technologies Used
 
@@ -51,11 +74,14 @@
 | JavaFX     | Frontend/UI                      |
 | CSS (opt)  | Styling and button effects       |
 
+
+
 ---
 
-## 📥 Download & Run
 
-### 🔗 Clone the Repository
+
+## 📥 Download & Run
+**🔗 Clone the Repository**
 
 ```bash
 git clone https://github.com/manishrnl/Rock-Paper-Scissor.git
@@ -75,12 +101,25 @@ cd Rock-Paper-Scissor
 
 - Start playing!
 
+
+
+---
+
+
+
 ## ✅ Requirements
 - Java 21 or higher
 
 - JavaFX SDK (24)
 
 - IDE like IntelliJ IDEA / Eclipse with JavaFX support
+
+
+
+---
+
+
+
 
 ## 📌 Future Improvements
 - 🎵 Add sound effects for actions
@@ -91,12 +130,23 @@ cd Rock-Paper-Scissor
 
 - 🌐 Implement multiplayer mode over LAN
 
+
+---
+
+
+
 ## 👤 Developed By
+
 **Manish Kumar**
 - 📧 manishrajrnl1@gmail.com
 - 🔗 GitHub Profile
 
-🗂 Project Structure
+
+---
+
+
+
+## 🗂 Project Structure
 ```bash
 📁 Rock-Paper-Scissor/
 ├── 📁 src/
